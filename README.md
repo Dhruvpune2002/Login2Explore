@@ -40,8 +40,3 @@ And then in new browser, you have to write
 And then it will take you to 
 'localhost/folder_name_your_php_file_name' to see that the records are added succesfully.
 
-After creating the folder where you have saved your code files, you have to paste that folder into the htdocs folder inside the xampp folder which is created in the C drive of your computer.
-And then in new browser, you have to write
-'localhost/folder_name/your_html_file_name.html' to fill entries in form
-And then it will take you to 
-'localhost/folder_name_your_php_file_name' to see that the records are added succesfully.
